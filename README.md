@@ -1,6 +1,15 @@
 # 💫 About Me:
 👋 Hi, I'm Akash Kale<br>DevOps Infrastructure Engineer | Cloud Architect | Open Source Enthusiast<br><br>I'm a DevOps engineer with 3+ years of hands-on experience designing automated cloud infrastructure, building robust CI/CD pipelines, and architecting scalable backend systems. I specialize in Infrastructure as Code, containerization, and secure infrastructure management.<br>
 
+I'm passionate about automating infrastructure, improving deployment pipelines, and building secure, scalable systems. My work focuses on:
+
+🏗️ Designing and implementing Infrastructure as Code using Terraform and Ansible
+🐳 Containerizing applications with Docker and orchestrating with Kubernetes
+🔄 Building automated CI/CD pipelines that reduce deployment time by 20%+
+🔐 Implementing secure infrastructure with HashiCorp Vault
+☁️ Cloud architecture on AWS and GCP
+📊 Optimizing system reliability and performance for high-throughput systems
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ak5253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashdkale52@gmail.com) 
