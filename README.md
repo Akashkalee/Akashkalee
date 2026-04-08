@@ -3,12 +3,12 @@
 
 I'm passionate about automating infrastructure, improving deployment pipelines, and building secure, scalable systems. My work focuses on:
 
-🏗️ Designing and implementing Infrastructure as Code using Terraform and Ansible<br>
+<!-- 🏗️ Designing and implementing Infrastructure as Code using Terraform and Ansible<br>
 🐳 Containerizing applications with Docker and orchestrating with Kubernetes<br>
 🔄 Building automated CI/CD pipelines that reduce deployment time by 20%+<br>
 🔐 Implementing secure infrastructure with HashiCorp Vault<br>
 ☁️ Cloud architecture on AWS and GCP<br>
-📊 Optimizing system reliability and performance for high-throughput systems<br>
+📊 Optimizing system reliability and performance for high-throughput systems<br>-->
 
 
 ## 🌐 Socials:
