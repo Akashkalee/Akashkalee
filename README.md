@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I'm Akash Kale<br>DevOps Infrastructure Engineer | Cloud Architect | Open Source Enthusiast<br><br>I'm a DevOps engineer with 3+ years of hands-on experience designing automated cloud infrastructure, building robust CI/CD pipelines, and architecting scalable backend systems. I specialize in Infrastructure as Code, containerization, and secure infrastructure management.<br>
+#Wellome I am Akash, multidisciplinary engineer with 6+ years of experience across software testing, DevOps & cloud infrastructure, Web development, and applied AI .
 
 I'm passionate about automating infrastructure, improving deployment pipelines, and building secure, scalable systems. My work focuses on:
 
