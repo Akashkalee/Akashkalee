@@ -1,4 +1,4 @@
-# Wellome I am Akash, multidisciplinary engineer with 6+ years of experience across software testing, DevOps & cloud infrastructure, Web development, and applied AI .
+# Welcome I am Akash, multidisciplinary engineer with 3+ years of experience across software testing, DevOps & cloud infrastructure, Web development, and applied AI .
 
 I'm passionate about automating infrastructure, improving deployment pipelines, and building secure, scalable systems. My work focuses on:
 
