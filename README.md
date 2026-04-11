@@ -37,10 +37,6 @@
 
 
 
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fakashkale-devops.netlify.app%2F&style=flat&logoColor=Blue&link=https%3A%2F%2Fakashkale-devops.netlify.app%2F)
-
-
-
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
