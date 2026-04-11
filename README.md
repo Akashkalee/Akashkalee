@@ -1,4 +1,4 @@
-## Hello, I am Akash, a multidisciplinary engineer with 3+ years of experience across Software Testing, DevOps & Cloud Infrastructure, Web Development, MLOps and Applied AI.
+## Hello, I am Akash, a multidisciplinary engineer with 3+ years of experience across Software Testing, DevOps & Cloud Infrastructure, MLOps and Applied AI.
 
 <!--I'm passionate about automating infrastructure, improving deployment pipelines, and building secure, scalable systems. My work focuses on:-->
 
