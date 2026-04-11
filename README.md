@@ -11,7 +11,8 @@
 
 
 #### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ak5253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashdkale52@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ak5253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashdkale52@gmail.com) [![Website](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://akashkale-devops.netlify.app/) 
+
 
 
 #### 💻 Languages & Scripting
@@ -37,9 +38,11 @@
 
 
 
-#### Website
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Akashkalee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Akashkalee&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkalee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-https://akashkale-devops.netlify.app/
 
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
