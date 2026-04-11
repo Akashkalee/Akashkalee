@@ -11,8 +11,7 @@
 
 
 #### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ak5253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashdkale52@gmail.com) [![Website](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://akashkale-devops.netlify.app/) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ak5253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashdkale52@gmail.com) 
 
 
 #### 💻 Languages & Scripting
@@ -38,8 +37,8 @@
 
 
 
-## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://akashkale-devops.netlify.app/) 
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fakashkale-devops.netlify.app%2F&style=flat&logoColor=Blue&link=https%3A%2F%2Fakashkale-devops.netlify.app%2F)
+
 
 
 #### ✍️ Random Dev Quote
