@@ -2,7 +2,6 @@
 
 ### A passionate multidisciplinary engineer with 3+ years of experience across Software Testing, DevOps & Cloud Infrastructure, MLOps and Agentic AI.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Akashkalee&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/Akashkalee" /> </p>
 
 - 🔭 I'm currently working on **MLOPs projects**
 
