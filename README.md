@@ -1,13 +1,19 @@
-# Hello, I am Akash, a multidisciplinary engineer with 3+ years of experience across Software Testing, DevOps & Cloud Infrastructure, MLOps and Applied AI.
+# Hi 👋, I'm Akash Kale
 
-<!--I'm passionate about automating infrastructure, improving deployment pipelines, and building secure, scalable systems. My work focuses on:-->
+### A passionate multidisciplinary engineer with 3+ years of experience across Software Testing, DevOps & Cloud Infrastructure, MLOps and Agentic AI.
 
-<!-- 🏗️ Designing and implementing Infrastructure as Code using Terraform and Ansible<br>
-🐳 Containerizing applications with Docker and orchestrating with Kubernetes<br>
-🔄 Building automated CI/CD pipelines that reduce deployment time by 20%+<br>
-🔐 Implementing secure infrastructure with HashiCorp Vault<br>
-☁️ Cloud architecture on AWS and GCP<br>
-📊 Optimizing system reliability and performance for high-throughput systems<br>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Akashkalee&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/Akashkalee" /> </p>
+
+- 🔭 I'm currently working on **MLOPs projects**
+
+- 🌱 I'm currently learning **Claude Code, Agentic AI and MLOPs**
+
+- 🤝 I'm looking for help with **learning system desgin**
+
+- 📫 How to reach me **akashdkale52@gmail.com**
+
+- ⚡ Fun fact **I think I am Batman **
+
 
 
 #### 🌐 Socials:
