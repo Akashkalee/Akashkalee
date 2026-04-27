@@ -3,7 +3,7 @@
 ### A passionate multidisciplinary engineer with 3+ years of experience across Software Testing, DevOps & Cloud Infrastructure, MLOps and Agentic AI.
 
 
-- 🔭 I'm currently working on **Trading Journal**
+- 🔭 I'm currently working on **Trading Journal made for Indian FnO traders**
 
 - 🌱 I'm currently learning **Claude Code, Agentic AI and MLOPs**
 
