@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akashdkale52@gmail.com**
 
-- ⚡ Fun fact ** I am Batman **
+- ⚡ Fun fact **I am Batman**
 
 #
 
